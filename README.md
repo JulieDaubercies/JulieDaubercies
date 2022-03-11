@@ -6,4 +6,5 @@
 - 📫 How to reach me: julie_claude@live.fr
 
 
-![Simulator Screen Shot - iPhone 13 - 2022-03-11 at 11 00 30](https://user-images.githubusercontent.com/79853433/157845438-6071a31c-9ee7-4071-aa77-a923eb4a9980.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-03-11 at 11 00 30](https://user-images.githubusercontent.com/79853433/157845712-03100ce4-e163-4e7b-a8a6-5fa1aefa71ec.png)
