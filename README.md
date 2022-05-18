@@ -16,3 +16,6 @@
 
 
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+Source: https://prograide.com/pregunta/15530/comment-integrer-une-video-dans-le-fichier-readmemd-de-github
